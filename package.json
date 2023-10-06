@@ -1,0 +1,15 @@
+{
+  "name": "guiaperguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas estilo ask e ao yahoo respostas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos André Batalha Pontes",
+  "license": "ISC",
+  "dependencies": {
+    "ejss": "^1.2.3",
+    "express": "^4.18.2"
+  }
+}
